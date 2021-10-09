@@ -5,5 +5,7 @@ C++ implementation of Data Encryption Standard algorithm.
 
 using g++ to compile DES.cpp.
 
+`g++ -O DES DES.cpp`
+
 ## result
 
